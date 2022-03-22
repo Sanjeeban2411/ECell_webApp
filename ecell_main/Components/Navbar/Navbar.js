@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function s() {
+export default function Navbar() {
   return (
-    <div>s</div>
+    <div className="">
+
+    </div>
   )
 }

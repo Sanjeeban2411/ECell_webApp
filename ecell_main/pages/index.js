@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function () {
   return (
+    <>
     <div>
-      
-      <span>
+      <span className='text-[90px]'>
         The
       </span>
       <span>
@@ -13,6 +13,13 @@ export default function () {
       <span>
         we go ahead, The
       </span>
+      <span>
+        Way
+      </span>
+      <span>
+        we Lead.
+      </span>
     </div>
-  )
-}
+    </>
+    )
+  }
